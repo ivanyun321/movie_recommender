@@ -1,0 +1,6 @@
+config.py
+*.csv
+*.tsv.gz
+.ipynb_checkpoints/
+__pycache__/
+.env
